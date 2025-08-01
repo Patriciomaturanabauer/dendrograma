@@ -1,4 +1,0 @@
-scipy
-libgfortran5
-libopenblas-dev
-liblapack-dev

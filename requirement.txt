@@ -1,7 +1,0 @@
-matplotlib
-numpy
-pandas
-scikit-learn
-scipy>=1.16.0,<1.17.0
-streamlit
-
