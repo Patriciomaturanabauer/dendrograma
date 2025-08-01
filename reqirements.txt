@@ -1,8 +1,8 @@
-matplotlib
-numpy
-pandas
-SciPy
-scipy.cluster.hierarchy
-satsmodels
 streamlit
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+
 
