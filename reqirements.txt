@@ -2,6 +2,7 @@ matplotlib
 numpy
 pandas
 scipy
+scipy.cluster.hierarchy
 satsmodels
 streamlit
 
