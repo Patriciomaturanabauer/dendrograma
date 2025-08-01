@@ -1,4 +1,5 @@
 streamlit
+read_excel
 pandas
 statsmodels
 seaborn
