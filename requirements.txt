@@ -1,6 +1,6 @@
 streamlit
-read_excelxl
 pandas
+openpyxl
 statsmodels
 seaborn
 matplotlib
